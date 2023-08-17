@@ -2,5 +2,4 @@ plotly==5.15.0
 streamlit-option-menu==0.3.6
 forecast==0.1.0
 load_model
-tensorflow.keras.models
 click==8.0
